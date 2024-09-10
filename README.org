@@ -63,5 +63,5 @@ D8BAnEjyBZypU+UEe0dnxKqqfXPw2G6MbuZMqidRx4iI9mj5VXGKlkgG80XiV51B
 You can also try to contact me on Matrix at ~@aciceri:nixos.dev~, but if you want to be sure to have an answer please use the e-mail.
 
 *** Mastodon
-Like the unsocial person I am you can find me on the (a)social network Mastodon at ~@aciceri@emacs.ch~.
+Like the unsocial person I am you can find me on the (a)social network Mastodon at ~@aciceri@functional.cafe~.
 Obviously (as now) I never posted.
